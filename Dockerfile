@@ -11,4 +11,5 @@ RUN apk add --no-cache --virtual .dl-deps curl \
 RUN apk add python
 
 WORKDIR ${APP_DIR}
+ADD fushimi.scss /opt/growi/src/client/styles/scss/theme/
 RUN yarn && yarn run build:prod
