@@ -15,4 +15,4 @@ ADD fushimi.scss /opt/growi/src/client/styles/scss/theme/
 ADD CustomizeThemeOptions.jsx /opt/growi/src/client/js/components/Admin/Customize/
 ADD webpack.common.js /opt/growi/config/
 
-# RUN yarn && yarn run build:prod
+RUN yarn && yarn run build:prod
