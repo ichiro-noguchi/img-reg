@@ -38,7 +38,7 @@ module.exports = (options) => {
       'styles/theme-nature':          './src/client/styles/scss/theme/nature.scss',
       'styles/theme-mono-blue':       './src/client/styles/scss/theme/mono-blue.scss',
       'styles/theme-future':          './src/client/styles/scss/theme/future.scss',
-      'styles/theme-fushimi':          './src/client/styles/scss/theme/fushimi.scss',
+      'styles/theme-jojo':          './src/client/styles/scss/theme/jojo.scss',
       'styles/theme-kibela':          './src/client/styles/scss/theme/kibela.scss',
       'styles/theme-halloween':       './src/client/styles/scss/theme/halloween.scss',
       'styles/theme-christmas':          './src/client/styles/scss/theme/christmas.scss',

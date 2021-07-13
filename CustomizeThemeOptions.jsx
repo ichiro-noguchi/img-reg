@@ -35,7 +35,7 @@ class CustomizeThemeOptions extends React.Component {
     }, {
       name: 'spring',     bg: '#ffffff', topbar: '#d3687c', sidebar: '#ffb8c6', theme: '#67a856',
     }, {
-      name: 'fushimi',     bg: '#16282d', topbar: '#2a2929', sidebar: '#00b5b7', theme: '#00b5b7',
+      name: 'jojo',     bg: '#16282d', topbar: '#2a2929', sidebar: '#00b5b7', theme: '#00b5b7',
     }, {
       name: 'future',     bg: '#16282d', topbar: '#2a2929', sidebar: '#00b5b7', theme: '#00b5b7',
     }, {
